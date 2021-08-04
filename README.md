@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hcdn.whitele.af/images/frenGH.png" width="309" height="92" alt="Header Image" />
+  <img src="https://whitele.af/other/assets/img/wFGHG.png" width="500" height="450" alt="WhiteFore.st Header Image" />
 </p>
 
 ---
