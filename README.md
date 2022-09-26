@@ -7,7 +7,7 @@
 ### WhiteLe.af
 WhiteLe.af is in rapid development and not able to be made wholly open source at this time. All parts rely on others, if you want access to the code on GitHub to repurpose for any reason, feel free to reach out.
 
-No curent repo is intended to be reflective of any current part of the WhifeLe.af suite.
+No current repo is intended to be reflective of any current part of the WhifeLe.af suite.
 
 ---
 
