@@ -12,8 +12,5 @@ No current repo is intended to be reflective of any current part of the WhifeLe.
 ---
 
 ### Social Links
-- [WhiteLe.af](https://www.whitele.af)
 - [WhiteForest](https://www.whitefore.st)
 - [Email](mailto:kenzie@whitele.af)
-- Discord ( WhiteNervosa#0101 )
-- [Twitter](https://www.twitter.com/WhiteNervosa)
